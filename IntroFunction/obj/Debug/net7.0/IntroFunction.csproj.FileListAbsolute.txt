@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\obj\Debug\net7.0\IntroFunction.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\obj\Debug\net7.0\IntroFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\obj\Debug\net7.0\IntroFunction.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\obj\Debug\net7.0\IntroFunction.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\obj\Debug\net7.0\IntroFunction.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\bin\Debug\net7.0\IntroFunction.exe
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\bin\Debug\net7.0\IntroFunction.deps.json
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\bin\Debug\net7.0\IntroFunction.runtimeconfig.json
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\bin\Debug\net7.0\IntroFunction.dll
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\bin\Debug\net7.0\IntroFunction.pdb
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\obj\Debug\net7.0\IntroFunction.dll
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\obj\Debug\net7.0\refint\IntroFunction.dll
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\obj\Debug\net7.0\IntroFunction.pdb
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\obj\Debug\net7.0\IntroFunction.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# seminar\Lection2C#\IntroFunction\obj\Debug\net7.0\ref\IntroFunction.dll
